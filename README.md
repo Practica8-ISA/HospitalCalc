@@ -1,5 +1,7 @@
 # HospitalCalc
 
+> Autores: Borja Pérez, Ainhoa Santana y Ainhoa Pérez.
+
 En nuestro proyecto de desarrollo de una calculadora de salud, hemos dividido el trabajo entre tres roles clave para maximizar la eficiencia y calidad:
 
 - Diseñador: Responsable de crear bocetos y esquemas iniciales, enfocándose en una interfaz de usuario intuitiva y atractiva. El diseñador de nuestro proyecto será Borja Pérez.
@@ -11,4 +13,7 @@ Esta división permite que cada miembro del equipo se enfoque en su área de esp
 ## Tablero de tareas
 
 A continuación se muestra el tablero Kanban con la planificación del proyecto.
+
+![Tablero Kanban con la planificación](tablero.png)
+
 
